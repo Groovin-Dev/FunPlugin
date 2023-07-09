@@ -1,2 +1,3 @@
-# PaperMC_Plugin
-Sample PaperMC (PaperSpigot) plugin written in Kotlin
+# FunPlugin
+
+This is just a fun plugin :3

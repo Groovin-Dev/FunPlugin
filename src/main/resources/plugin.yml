@@ -1,6 +1,10 @@
 main: Plugin
-name: FirstPlugin
+name: FunPlugin
 version: 1.0
-api-version: "1.17"
-author: Author
-description: An Example plugin
+api-version: "1.20"
+author: Groovin-Dev
+description: A fun testing plugin
+commands:
+  givegrapple:
+    description: Gives the player a grapple
+    usage: /givegrapple
